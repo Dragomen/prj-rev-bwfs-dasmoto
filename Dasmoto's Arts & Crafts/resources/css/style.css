@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+p{
+	font-family: Helvetica;
+}
+h1{
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(../images/pattern.jpeg);
+}
+spam{
+	color: blue;
+	font-weight: bold;
+}
+.Brushes h2{
+	font-size: 32px;
+	font-weight: bold;
+	color:white;
+	background-color: mediumspringgreen;
+}
+.Frames h2{
+	font-size: 32px;
+	font-weight: bold;
+	color:white;
+	background-color: lightcoral;
+}
+.Paint h2{
+	font-size: 32px;
+	font-weight: bold;
+	color:white;
+	background-color: skyblue;	
+}
